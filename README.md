@@ -1,12 +1,80 @@
-- 👋 Hi, I’m @jovanailin,a junior Data & Machine Learning Engineer. I'm passionate about leveraging data to uncover insights and build intelligent systems. Here's a quick overview of my background and interests:
-- 🎓 Pursuing degree in Applied Mathematics (Data Science)
-- 🌱 Actively learning and expanding my skills in machine learning, data science and AI.
-- 🧪 Comfortable working with data cleaning and preprocessing techniques.
-- 📚 Avid reader of research papers and articles related to data science and machine learning.
-- 🤝 Open to collaborating on exciting data-driven projects and contributing to open-source
-- 📫 How to reach me: jovanailin@gmail.com or on linkedin: https://www.linkedin.com/in/jovanailin/
+# Hi there, I'm Jovana 👋
 
-<!---
-jovanailin/jovanailin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I'm a Data Scientist passionate about transforming data into actionable insights and building intelligent systems.
+
+My background combines applied mathematics, data science, machine learning, and software engineering, allowing me to approach problems from both theoretical and practical perspectives.
+
+Currently, I work on data-driven solutions involving:
+
+- Machine Learning
+- Deep Learning
+- Data Science
+- Data Analytics
+- Predictive Modeling
+- MLOps
+- Data Engineering
+
+---
+
+## Tech Stack
+
+### Programming
+- Python
+- SQL
+
+### Data Science & Machine Learning
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- PyTorch
+- XGBoost
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Power BI
+
+### Databases
+- SQL Server
+- PostgreSQL
+
+### Cloud & Tools
+- Azure Machine Learning
+- Git
+- GitHub
+- Jupyter Notebook
+
+---
+
+## Areas of Interest
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Recommendation Systems
+- Time Series Forecasting
+- Optimization
+- Applied Mathematics
+
+---
+
+## Currently Learning
+
+- Advanced Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- MLOps & Model Deployment
+- Azure AI Services
+
+---
+
+## Connect With Me
+
+📧 Email: jovanailin@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/jovanailin/
